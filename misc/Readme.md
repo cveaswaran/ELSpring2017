@@ -1,2 +1,1 @@
-## A directory for misellaneous stuff. 
-Nothing really relevant should be here!
+All of my miscelaneous information will go here
